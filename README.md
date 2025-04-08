@@ -1,5 +1,10 @@
 # 💫 About Me:
-"Hellow hi i am sham chavan Highly motivated programmer <br>with a passion for coding, <br>problem-solving, <br>and delivering innovative solutions through expertise<br> in various programming languages.
+
+1. Proficient in multiple programming languages: Skilled in C, C++, HTML, CSS, JavaScript, and PHP.
+2. Experience with front-end and back-end development: Familiar with building responsive and interactive web applications.
+3. Strong problem-solving skills: Skilled in solving complex problems using a variety of programming languages and technologies.
+4. Excellent communication and teamwork skills: Experienced in working with others on coding projects.
+5. Ability to learn new technologies quickly: Skilled in learning new technologies quickly and adapting to new programming languages and frameworks.
 
 
 ## 🌐 Socials:
