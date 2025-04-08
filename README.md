@@ -1,5 +1,5 @@
 # 💫 About Me:
-"Highly motivated programmer <br>with a passion for coding, <br>problem-solving, <br>and delivering innovative solutions through expertise<br> in various programming languages.
+"Hellow hi i am sham chavan Highly motivated programmer <br>with a passion for coding, <br>problem-solving, <br>and delivering innovative solutions through expertise<br> in various programming languages.
 
 
 ## 🌐 Socials:
